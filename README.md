@@ -2,7 +2,7 @@
 Este projeto é uma calculadora desenvolvida em Python como parte do curso "Python Starter", sendo o primeiro projeto realizado durante o curso.
 
 # Funcionalidades 📝
-- Realiza operações básicas de adição, subtração, multiplicação e divisão.
+- Realiza operações básicas de adição, subtração, multiplicação, divisão e exponenciação.
 - Interface simples e fácil de usar.
 
 # Como usar 🚀
