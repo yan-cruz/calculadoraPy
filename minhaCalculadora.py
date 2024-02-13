@@ -31,7 +31,7 @@ while True:
     op_symbol = list(operations.keys())[op - 1]
 
 
-    print("")
+    os.system("cls")
     print(">>> {} escolhida.".format(list(operations.values())[op - 1]))
 
     print("")
@@ -49,7 +49,7 @@ while True:
     elif op == 5:
         result = num1 ** num2
 
-
+    print("")
     print("{} {} {} = {}".format(num1, op_symbol, num2, result))
 
     print("")
